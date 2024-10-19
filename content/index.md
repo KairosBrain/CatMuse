@@ -1,5 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to CatMuse
+publish: true
 ---
 
 This is a blank Quartz installation.
