@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Markdown Style
 publish: true
 tags:
 ---
