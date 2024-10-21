@@ -3,7 +3,6 @@ title: Obsidian ACCESS
 publish: true
 tags:
 ---
-
 今天来聊聊我的 Obsidian 文件管理小技巧吧，分享给大家一个超实用的方法。我是用的 [Nick Milo](https://www.youtube.com/@linkingyourthinking) 的 LYT 6.0 框架，虽然后来他有做过一些简化，但我觉得原版对我来说刚刚好。
 
 🌍 **[[Atlas]]**：我的知识地图，从这里可以俯瞰整个知识宇宙，整理思路从这开始。

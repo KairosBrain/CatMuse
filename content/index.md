@@ -5,7 +5,19 @@ publish: true
 
 ## 20241021
 
-我也有自己的 RSS 订阅了。
+我也有了属于自己的一片[[数字花园]] 🌱。今天研究了下 [Quartz](https://quartz.jzhao.xyz/) ，这是一款快速的静态站点生成器，可将 Markdown 内容转换为功能齐全的网站。可以通过 [[Obsidian]] 来管理发布内容，同时也包含了 Obsidian 的一些理念和功能，例如：
+
+- Backlinks
+- Wikilinks
+- Graph View
+- Popover Previews
+- Callouts
+- Mermaid Diagrams
+- …
+
+这里是我的地址：[Welcome to KaiBrain](https://www.kaibrain.com/) ，目前我会将我的首页先当作一个日记本来用，写一些碎碎念念的唠叨。⚠️ 其中有很多文件夹是空的，或是 404，是因为我还没有创建内容。现在吧，先扎扎篱笆，翻翻土。👨‍🌾
+
+![[数字花园IMG.png]]
 
 ---
 
