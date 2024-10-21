@@ -1,5 +1,5 @@
 ---
-title: Welcome to CatMuse
+title: Welcome to KaiBrain
 publish: true
 ---
 
