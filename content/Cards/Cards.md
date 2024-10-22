@@ -3,5 +3,15 @@ title: Cards
 publish: true
 tags:
 ---
+It helps you...
+Build and connect your ideas
 
-This is the Cards file.
+What lives here?
+Ideas, insights, and others things
+
+What are some examples?
+- Ideas
+- Things
+- People
+- Concepts
+- Statements
