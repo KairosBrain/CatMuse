@@ -19,6 +19,7 @@ const config: QuartzConfig = {
     baseUrl: "kaibrain.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
+    generateSocialImages: true,
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
