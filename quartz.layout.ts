@@ -23,8 +23,8 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/KairosBrain/KaiBrain",
-      RSS: "https://kaibrain.com/index.xml",
+      GitHub: "https://github.com/KairosBrain/CatMuse",
+      RSS: "https://catmuse.me/index.xml",
     },
   }),
 }
